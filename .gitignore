@@ -1,0 +1,3 @@
+# Exclude password file from version control
+provision/password.sh
+.vagrant/
